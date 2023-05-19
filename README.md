@@ -10,4 +10,14 @@ This project emphasizes on:
 - Self-assigning user stories on the top of product backlogs during each sprint
 - Getting to know the user story template, Gherkin syntax and user story assumptions and details
 
-Here is a project board on ZenHub
+
+
+**Here is a project board on ZenHub**
+
+![](./agile_lab_final.png)
+
+
+
+**Here is a burndown chart**
+
+![](./burndown_chart.png)
